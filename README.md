@@ -12,11 +12,22 @@ My focus is on understanding the business question behind the data, identifying 
 
 ## About Me
 
-- Data Analyst with a background in Electronics and Computer Engineering.
-- Currently studying Data Science at WorldQuant University.
-- Experienced in building practical analytics projects and business reports.
-- Interested in business intelligence, customer analytics, financial analysis, and data-driven decision-making.
-- Passionate about making data analytics practical and accessible.
+I am a Data Analyst with an academic background in Electronics and Computer Engineering and a current focus on Data Science at WorldQuant University.
+
+My professional interests include:
+
+- Data Analytics and Business Intelligence
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Transformation
+- SQL Querying and Database Management
+- Data Modelling and Visualisation
+- Dashboard Development and Reporting
+- Business and Customer Analytics
+
+I have practical experience working with datasets, developing analytical reports, building dashboards, and presenting findings through structured data projects.
+
+Beyond analytics, I am involved in technology education and professional skills development, with a focus on practical data analytics training.
+
 
 ## Technical Skills
 
@@ -35,25 +46,36 @@ My focus is on understanding the business question behind the data, identifying 
 
 Here are some of the analytics projects I am building to demonstrate my approach to solving business problems.
 
-### 1. Sales Performance Analysis
-- Business Focus: Sales performance, revenue trends, and product performance.
-- Tools: Excel / SQL / Power BI
-- Objective: Identify revenue drivers and areas requiring business attention.
-- Project: [Insert Repository Link]
+### 1. Financial & Operational Performance Analysis
 
-### 2. Customer Analysis
-- Business Focus: Customer behaviour, retention, and segmentation.
-- Tools: SQL / Power BI
-- Objective: Identify customer patterns and opportunities to improve retention.
-- Project: [Insert Repository Link]
+- **Focus:** Financial performance, branch comparison, and target monitoring.
+- **Tools & Techniques:** Microsoft Excel, Power Query, Data Modelling, DAX, KPI Development, Feature Engineering.
+- **Overview:** Analysis of financial and operational performance across branches, with emphasis on performance tracking, target achievement, and key business indicators.
+- **Project:** [View Project Repository](INSERT_LINK_HERE)
 
-### 3. HR Workforce Analytics
+### 2. Telecommunications Customer Churn Analysis
+
+- **Focus:** Customer churn, retention patterns, and customer behaviour.
+- **Tools & Techniques:** Power BI, Power Query, DAX, Data Modelling, KPI Development.
+- **Overview:** Analysis of telecommunications customer data to examine churn patterns, identify customer segments, and evaluate retention-related metrics.
+- **Project:** [View Project Repository](INSERT_LINK_HERE)
+
+### 3. Flight Ticket Price Analysis Using SQL
+
+- **Focus:** Flight ticket pricing, price distribution, and travel data analysis.
+- **Tools & Techniques:** SQL Server, SQL Queries, Data Exploration.
+- **Dataset:** 300,000+ rows.
+- **Overview:** SQL-based analysis of flight ticket pricing data, exploring pricing patterns and variations across the dataset.
+- **Project:** [View Project Repository](INSERT_LINK_HERE)
+
+
+### 4. HR Workforce Analytics & Employee Performance
 - Business Focus: Workforce performance and employee attrition.
 - Tools: Excel / Power BI
 - Objective: Analyse workforce trends and identify factors associated with employee turnover.
-- Project: https://github.com/Ruttysmith/HR-Workforce-Analysis
+- Project: [View Project Repository] https://github.com/Ruttysmith/HR-Workforce-Analysis
 
-### 4. Data Analysis with Python
+### 5. Data Analysis with Python
 - Business Focus: Exploratory data analysis and insight generation.
 - Tools: Python, Pandas, Matplotlib
 - Objective: Clean, explore, and interpret datasets to answer business questions.
