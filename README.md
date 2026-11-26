@@ -1,4 +1,4 @@
-# Hi, I'm Ruth Yakubu 👋
+# Hi, I'm Ruth Yakubu
 
 ### Data Analyst | Business Intelligence & Analytics Professional
 
