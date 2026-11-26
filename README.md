@@ -51,7 +51,7 @@ Here are some of the analytics projects I am building to demonstrate my approach
 - **Focus:** Financial performance, branch comparison, and target monitoring.
 - **Tools & Techniques:** Microsoft Excel, Power Query, Data Modelling, DAX, KPI Development, Feature Engineering.
 - **Overview:** Analysis of financial and operational performance across branches, with emphasis on performance tracking, target achievement, and key business indicators.
-- **Project:** [View Project Repository](INSERT_LINK_HERE)
+- **Project:** [View Project Repository](https://github.com/Ruttysmith/Financial-Operational-Performance-Analysis)
 
 ### 2. Telecommunications Customer Churn Analysis
 
