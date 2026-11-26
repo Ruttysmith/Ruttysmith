@@ -73,7 +73,7 @@ Here are some of the analytics projects I am building to demonstrate my approach
 - Business Focus: Workforce performance and employee attrition.
 - Tools: Excel / Power BI
 - Objective: Analyse workforce trends and identify factors associated with employee turnover.
-- Project: [View Project Repository] https://github.com/Ruttysmith/HR-Workforce-Analysis
+- Project: [View Project Repository](https://github.com/Ruttysmith/HR-Workforce-Analysis)
 
 ### 5. Data Analysis with Python
 - Business Focus: Exploratory data analysis and insight generation.
