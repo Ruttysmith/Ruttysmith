@@ -99,6 +99,7 @@ I'm open to opportunities involving data analytics, business intelligence, repor
 
 - LinkedIn: https://www.linkedin.com/in/ruthietheanalyst/
 - YouTube: https://www.youtube.com/@ruthie.d.analyst
+- Email: ruthietheanalyst@gmail.com
 
 ---
 
